@@ -1,0 +1,8 @@
+streamlit
+speechrecognition
+deep-translator
+pyttsx3
+langdetect
+pandas
+plotly
+pyaudio

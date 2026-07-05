@@ -1,0 +1,12 @@
+AI-Speech-Translator-Pro/
+│── app.py
+│── requirements.txt
+│── README.md
+│── PROJECT_SUMMARY.md
+│── speech_recognition_module.py
+│── translation_module.py
+│── text_to_speech_module.py
+│── language_detection_module.py
+│── file_translation_module.py
+│── save_translation_module.py
+│── translation_history.txt
