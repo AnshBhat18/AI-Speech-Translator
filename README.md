@@ -1,4 +1,4 @@
-# AI Speech Translator Pro
+# AI Speech Translator
 
 An intelligent full-stack multilingual translation platform that converts speech, text, files, and images into different languages in real time. Built with a non-blocking asynchronous FastAPI backend and a modern React frontend.
 
